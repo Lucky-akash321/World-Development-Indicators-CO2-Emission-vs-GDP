@@ -1,5 +1,7 @@
 # World Development Indicators: CO2 Emissions vs GDP Analysis
 
+![](https://github.com/Lucky-akash321/World-Development-Indicators-CO2-Emission-vs-GDP/blob/main/main%20image.png)
+
 This project focuses on analyzing the relationship between **CO2 emissions** and **GDP** (Gross Domestic Product) using the **World Development Indicators** dataset. The goal is to explore how economic growth correlates with environmental impacts, specifically carbon emissions, across different countries and regions over time. Understanding this relationship can help policymakers address sustainability challenges while fostering economic development.
 
 ## Steps to Analyze CO2 Emissions vs GDP
